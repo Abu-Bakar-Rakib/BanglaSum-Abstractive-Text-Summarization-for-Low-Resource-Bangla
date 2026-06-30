@@ -127,7 +127,7 @@ pip install transformers datasets rouge_score bert_score pandas numpy matplotlib
 ```bash
 # 1. Open the notebook
 jupyter notebook banglasummarization-ab.ipynb
-# or run on Google Colab
+# or run on kaggle notebook with ensuring free T4X2 GPU
 ```
 
 1. Open `banglasummarization-ab.ipynb` in Jupyter or Google Colab
