@@ -42,6 +42,7 @@
 
 </div>
 <img width="887" height="487" alt="image" src="https://github.com/user-attachments/assets/b0f6e71e-e7b8-4ce7-8fc7-471b1cb8ed84" />
+<img width="987" height="487" alt="image" src="https://github.com/user-attachments/assets/d8a42312-476f-45c5-ad7f-7c29d50cf818" />
 
 > 📌 The fine-tuned model is benchmarked against a **TextRank extractive baseline** on a 50-sample subset — see [`model_comparison.csv`](model_comparison.csv).
 
