@@ -1,0 +1,3 @@
+Model,ROUGE-1,ROUGE-2,ROUGE-L
+TextRank (Extractive),0.0,0.0,0.0
+BanglaBART Fine-tuned (Ours),24.0,12.61,21.97
