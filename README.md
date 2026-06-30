@@ -23,6 +23,7 @@
 | 🧠 **Base model** | [`csebuetnlp/mT5_multilingual_XLSum`](https://huggingface.co/csebuetnlp/mT5_multilingual_XLSum) |
 | 📊 **Metrics** | ROUGE-1/2/L, BERTScore (F1), TextRank baseline |
 | 🧪 **Eval set** | 200 randomly sampled test articles |
+<img width="1587" height="411" alt="image" src="https://github.com/user-attachments/assets/b65f59f1-1dc5-4c9b-98cb-fad95131b477" />
 
 ---
 
