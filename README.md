@@ -1,5 +1,4 @@
 # BanglaSum-Abstractive-Text-Summarization-for-Low-Resource-Bangla
-# BanglaSum: Abstractive Text Summarization for Low-Resource Bangla
 
 Fine-tuning `mT5` on the Bengali subset of **XL-Sum** for abstractive news summarization, with full automatic evaluation (ROUGE-1/2/L, BERTScore), an extractive TextRank baseline for comparison, and a ready-to-use human evaluation template.
 
