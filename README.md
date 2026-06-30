@@ -41,6 +41,7 @@
 | Avg. reference length | 21.85 words |
 
 </div>
+<img width="887" height="487" alt="image" src="https://github.com/user-attachments/assets/b0f6e71e-e7b8-4ce7-8fc7-471b1cb8ed84" />
 
 > 📌 The fine-tuned model is benchmarked against a **TextRank extractive baseline** on a 50-sample subset — see [`model_comparison.csv`](model_comparison.csv).
 
