@@ -1,7 +1,7 @@
 <div align="center">
 
 # 📰 BanglaSum
-### Abstractive Text Summarization for Low-Resource Bangla
+### Abstractive Text Summarization for Low-Resource Bangla Language
 
 *Fine-tuning mT5 on XL-Sum Bengali for fluent, faithful news summarization*
 
